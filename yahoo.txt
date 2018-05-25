@@ -1,0 +1,10 @@
+hidesayasota / el9****
+ohideko117@outlook.com
+
+Client ID：dj00aiZpPVV3c3dqcW5vOTlXTyZzPWNvbnN1bWVyc2VjcmV0Jng9Y2Y
+
+https://shopping.yahooapis.jp/ShoppingWebService/V1/json/categoryRanking
+
+https://shopping.yahooapis.jp/ShoppingWebService/V1/json/categoryRanking?appid=dj00aiZpPVV3c3dqcW5vOTlXTyZzPWNvbnN1bWVyc2VjcmV0Jng9Y2Y-&category_id=2502&callback=jsonpCallback
+
+http://shopping.yahooapis.jp/ShoppingWebService/V1/itemSearch?appid=dj00aiZpPVV3c3dqcW5vOTlXTyZzPWNvbnN1bWVyc2VjcmV0Jng9Y2Y-&category_id=635&sort=-sold
